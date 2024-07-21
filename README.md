@@ -1,7 +1,11 @@
-# Hadoop Installation
+# Hadoop
 
-## Windows: 
+### Introduction to Hadoop:
+https://youtu.be/aReuLtY0YMI?si=YVb6LhZ_hijgQ94o
+
+## Hadoop Installation
+### Windows: 
 https://medium.com/@DataEngineeer/how-to-set-up-hadoop-on-windows-a-step-by-step-guide-37d1ab4bee57
 
-## Mac: 
+### Mac: 
 https://medium.com/@MinatoNamikaze02/installing-hadoop-on-macos-m1-m2-2023-d963abeab38e
