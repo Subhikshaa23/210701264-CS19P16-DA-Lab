@@ -3,6 +3,9 @@
 ### Introduction to Hadoop:
 https://youtu.be/aReuLtY0YMI?si=YVb6LhZ_hijgQ94o
 
+### Word count problem using python
+https://www.geeksforgeeks.org/hadoop-streaming-using-python-word-count-problem/
+
 ## Hadoop Installation
 ### Windows: 
 https://medium.com/@DataEngineeer/how-to-set-up-hadoop-on-windows-a-step-by-step-guide-37d1ab4bee57
